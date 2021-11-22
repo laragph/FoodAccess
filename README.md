@@ -1,2 +1,2 @@
 # FoodAccess
-NYC Foot Pantry Usage Over Time
+NYC Food Pantry Usage Over Time
